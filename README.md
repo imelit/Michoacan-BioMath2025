@@ -1,6 +1,6 @@
 # Michoacán School on Mathematical Biology
 
-Welcome to the repository for the **First Michoacán School on Mathematical Biology**. This project serves as the official website for the event, providing information about the school, its program, instructors, application details, and more.
+Welcome to the repository for the **First Michoacán School on Mathematical Biology**. This project serves as an unofficial website for the event, providing information about the school, its program, instructors, application details, and more. The official webpage will be lunched soon!
 
 ## Overview
 
